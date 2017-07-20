@@ -1,0 +1,14 @@
+{
+  "name": "border-1px",
+  "version": "1.0.0",
+  "description": "解决移动1px问题",
+  "main": "1px.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1px","border-1px"
+  ],
+  "author": "yucccc",
+  "license": "ISC"
+}
